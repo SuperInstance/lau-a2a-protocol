@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Agent-to-Agent protocol layer for PLATO"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-a2a-protocol"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
